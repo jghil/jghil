@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jghil
 - 👀 I’m interested in anime, webtoons, learning code, and working out.
-- 🌱 I’m currently learning how to code through The Odin Project.
+- 🌱 I’m currently learning how to code through LearningFuze and The Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jayjeonghil94@gmail.com
 
